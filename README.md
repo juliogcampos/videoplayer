@@ -6,6 +6,8 @@ Protótipo de aplicação web criada com [React](https://github.com/facebook/cre
 
 ## Instruções
 
-- Após clonar o projeto, execute o comando **npm install** no terminal do Node.js.
-- Em seguida, execute o comando **npm start** no terminal do Node.js.
+- Instale a última versão LTS do [Node.js](https://nodejs.org/en/download/) em seu computador.
+- Abra o terminal do Node.js e clone o projeto para seu o computador com o comando **git clone https://github.com/juliogcampos/videoplayer.git**.
+- Acesse a pasta com o comando **cd videoplayer**.
+- Execute o comando **npm start** para instalar todas as dependências do projeto.
 - Abra [http://localhost:3000](http://localhost:3000) para visualizar a aplicação no browser.
