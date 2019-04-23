@@ -2,7 +2,7 @@
 
 ![videoplayer](https://repository-images.githubusercontent.com/181783681/8a9ab900-65c1-11e9-9553-32a48ebce7fb)
 
-Protótipo criado com [React](https://github.com/facebook/create-react-app) e [Material-UI](https://material-ui.com/).
+Aplicação web criada com [React](https://github.com/facebook/create-react-app) e [Material-UI](https://material-ui.com/).
 
 ## Instruções
 
